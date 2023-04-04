@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LucasPizzas</string>
+    <string name="pizzas">Pizzas</string>
+    <string name="drinks">Bebidas</string>
+</resources>
